@@ -1,0 +1,1 @@
+# fungsi ambil data

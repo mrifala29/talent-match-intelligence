@@ -1,0 +1,62 @@
+# ==========================
+# Python & Jupyter
+# ==========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ==========================
+# Virtual environment
+# ==========================
+.env/
+.venv/
+venv/
+env/
+ENV/
+*.venv
+*.env
+
+# ==========================
+# Environment & Secrets
+# ==========================
+.env
+*.key
+*.secret
+
+# ==========================
+# Data & Outputs
+# ==========================
+data/raw/*
+data/processed/*
+!data/.gitkeep
+
+# ==========================
+# Reports & Exports
+# ==========================
+reports/*
+!reports/.gitkeep
+
+# ==========================
+# Jupyter Notebook & Logs
+# ==========================
+*.log
+*.out
+*.tmp
+*.bak
+
+# ==========================
+# IDE & Editor Files
+# ==========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Streamlit Cache
+# ==========================
+.streamlit/
+**/.streamlit/

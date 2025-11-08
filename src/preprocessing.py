@@ -1,0 +1,1 @@
+# pembersihan data

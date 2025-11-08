@@ -1,0 +1,1 @@
+pandas\nstreamlit\nsupabase\nopenai\nnotebook
