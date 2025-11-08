@@ -1,1 +1,4 @@
-pandas\nstreamlit\nsupabase\nopenai\nnotebook
+cryptography==46.0.3
+h2==4.3.0
+pip==25.2
+supabase==2.24.0
